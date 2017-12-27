@@ -24,3 +24,25 @@ class App extends Component {
 }
 
 export default App;
+
+
+/* 
+on the opening page
+
+load random picture
+sidebar 1: 
+  -log in, 
+  -favorites, other lists
+  -match poses with
+
+sidebar 2:
+  -rate pose/sequence
+  -find similar
+  -
+
+
+  -warm up
+
+
+
+*/
