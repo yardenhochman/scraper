@@ -1,3 +1,4 @@
-# React-Express-Boilerplate
+# Acropedia Scraper
 
-start with "yarn run dev"
+start with "yarn start"
+
